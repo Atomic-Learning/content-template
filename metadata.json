@@ -1,7 +1,11 @@
 {
     "title": "",
     "slug": "",
-    "duration": ,
+    "authors": [
+        "",
+        ""
+    ],
+    "duration": 0,
     "prerequisites": [
         {
             "slug": "",
